@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oscar Dahabr
-- 👀 I’m interested in web developming, data science and machine learning
+- 👀 I'm interested in web development, data science and machine learning
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: oscar.dh.95@gmail.com
