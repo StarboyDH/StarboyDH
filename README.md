@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Oscar Dahabr
-- 👀 I'm interested in web development, data science and machine learning
-- 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on ...
+- { Vue, Express, MongoDB }
+
 - 📫 How to reach me: oscar.dh.95@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/oscar-dh/
 - 💻 Stackblitz: https://stackblitz.com/@StarboyDH
